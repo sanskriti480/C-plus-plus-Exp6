@@ -3,7 +3,6 @@
 //Batch - A2
 //Experiment 6
 
-//Program 1
 
 #include <iostream>
 using namespace std;
