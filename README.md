@@ -102,42 +102,57 @@ These patterns help in understanding:
 General Structure of a Pattern Program
 
 Outer loop:
-
 Controls the number of rows.
 
 Inner loop 1 (optional):
-
 Prints spaces to align the pattern (used in right-aligned or centered patterns).
 
 Inner loop 2:
-
 Prints the pattern character, such as *, numbers, or letters.
 
 ## Sample output
 
 Program 1
+
 0
+
 2
+
 4
+
 6
+
 8
+
 10
 
 Program 2
-SIT
-SIT
-SIT
-SIT
+
 SIT
 
+SIT
+
+SIT
+
+SIT
+
+SIT
+
+
 Program 3
+
 Enter last 5 digit of your PRN: 23054
+
 Reversed PRN: 45032
 
 Program 4
+
 Enter your Password	sanskriti@!488
+
 Oh no, Wrong password, Try again
+
 Enter your Password	Sanskriti@!480
+
 Yay!! Unlocked!!
 
 ## Conclusion
