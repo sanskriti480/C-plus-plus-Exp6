@@ -1,4 +1,4 @@
-# Experiment: Loops, Conditions & Patterns in C++
+# Experiment: Loops
 
 ## Aim
 To implement various C++ programs using **loops**, **conditional statements**, and **patterns** to gain practical understanding of control structures and logic building.
